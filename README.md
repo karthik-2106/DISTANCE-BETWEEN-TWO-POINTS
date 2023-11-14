@@ -40,6 +40,6 @@ print(f"{distance:,.2f}")
 ``````
 
 ### OUTPUT:
-![output](/DISTANCE-BETWEEN-TWO-POINTS/output.png)
+![output](/output.png)
 
 ### RESULT:

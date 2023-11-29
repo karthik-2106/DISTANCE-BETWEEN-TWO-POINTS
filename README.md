@@ -40,6 +40,7 @@ print(f"{distance:,.2f}")
 ``````
 
 ### OUTPUT:
-![output](/output.png)
+![output](/DISTANCE-BETWEEN-TWO-POINTS/output.png)
 
 ### RESULT:
+Thus the swapping of two values are successfully executed.

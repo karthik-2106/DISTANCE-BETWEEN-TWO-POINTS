@@ -6,24 +6,20 @@ To write a python program to find the distance two 2 points
 ## ALGORITHM:
 
 ### Step 1:
-Get the two values from the user
+Importing math module in program
 
 ### Step 2:
-Assign the value of second variable to a temporary variable
+Assigning the given coordinates to the variables
 
 ### Step 3:
-Assign the value of the first variable to the second variable.
-
-Substitute the values in the distance formula  ![formula](/DISTANCE-BETWEEN-TWO-POINTS/formula.JPG)
+Substitute the values in the distance formula formula
+![OUTPUT](/formula.JPG)
 
 ### Step 4:
-Assign the value in temporary variable to the first variable
+Print the statement
 
 ### Step 5:
-Print both the values it would be interchanged
-
-### Step 6:
-End the program
+End the program.
 
 ### PROGRAM :
 ``````
@@ -40,7 +36,7 @@ print(f"{distance:,.2f}")
 ``````
 
 ### OUTPUT:
-![output](/DISTANCE-BETWEEN-TWO-POINTS/output.png)
+![OUTPUT](/output.png)
 
 ### RESULT:
 Thus the swapping of two values are successfully executed.

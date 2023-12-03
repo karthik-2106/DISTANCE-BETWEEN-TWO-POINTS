@@ -13,13 +13,13 @@ Assigning the given coordinates to the variables
 
 ### Step 3:
 Substitute the values in the distance formula formula
-![OUTPUT](/formula.JPG)
+![FORMULA](/formula.JPG)
 
 ### Step 4:
 Print the statement
 
 ### Step 5:
-End the program.
+End of the program.
 
 ### PROGRAM :
 ``````
@@ -39,4 +39,4 @@ print(f"{distance:,.2f}")
 ![OUTPUT](/output.png)
 
 ### RESULT:
-Thus the swapping of two values are successfully executed.
+Thus the DISTANCE-BETWEEN-TWO-POINTS are successfully executed.

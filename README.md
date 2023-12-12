@@ -31,9 +31,6 @@ print(f"{d:,.2f}")
 ![OUTPUT](/output.png)
 
 ### RESULT:
-<<<<<<< HEAD
-Thus The Distance between two points is successfully executed.
-=======
 Thus the DISTANCE-BETWEEN-TWO-POINTS are successfully executed.
 
->>>>>>> 1d58fe2ad1ac0c22e7bec893b85dbe01c3833483
+

@@ -17,8 +17,8 @@ End of the program.
 ### PROGRAM:
 ```
 #Program to find the distance between two points.
-#Developed by: RAJARAMAN V
-#RegisterNumber:23014299
+#Developed by: KARTHIKEYAN M
+#RegisterNumber:23005191
 import math
 x_1=10
 x_2=4
@@ -28,7 +28,7 @@ d=math.sqrt((x_2-x_1)**2+(y_2-y_1)**2)
 print(f"{d:,.2f}")
 ```
 ### OUTPUT:
-![OUTPUT](/output1.png)
+![OUTPUT](/output.png)
 
 ### RESULT:
 Thus the DISTANCE-BETWEEN-TWO-POINTS are successfully executed.

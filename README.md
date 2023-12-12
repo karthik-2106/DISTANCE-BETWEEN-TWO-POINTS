@@ -2,6 +2,7 @@
 
 ## AIM:
 To write a python program to find the distance two 2 points
+
 ## ALGORITHM:
 ### Step 1: 
 Importing math module in program
@@ -27,7 +28,8 @@ d=math.sqrt((x_2-x_1)**2+(y_2-y_1)**2)
 print(f"{d:,.2f}")
 ```
 ### OUTPUT:
-![OUTPUT](/Screenshot%202023-12-12%20111315.png)
+![OUTPUT](/output1.png)
+
 ### RESULT:
-Thus the DISTANCE-BETWEEN-TWO-POINTS are successfully executed.
+Thus the DISTANCE-BETWEEN-TWO-POINTS are successfully executed.
 

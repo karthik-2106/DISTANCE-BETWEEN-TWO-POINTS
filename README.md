@@ -39,4 +39,4 @@ print(f"{distance:,.2f}")
 ![OUTPUT](/output.png)
 
 ### RESULT:
-Thus the DISTANCE-BETWEEN-TWO-POINTS are successfully executed.
+Thus The Distance between two points is successfully executed.
